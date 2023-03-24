@@ -28,17 +28,10 @@ You can clone or fork this repo as a theme for your portfolio site. Because it d
 - Fork and Clone the repository
 
 ```
-
-```
+- Please visit -> https://nareshkumark.netlify.app/
 
 - Go inside the main repository
 
-```
-$ cd Personal-Portfolio-v1
-```
-
 - Modify `index.html` to change the names and links to point at your pages.
 
-- Upload your resume in the place of `resume.pdf`
-
-# #🚀HappyCoding
+- 🚀HappyCoding
