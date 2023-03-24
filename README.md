@@ -28,7 +28,7 @@ You can clone or fork this repo as a theme for your portfolio site. Because it d
 - Fork and Clone the repository
 
 ```
-https://github.com/devpuskar/Personal-Portfolio-v1.git
+
 ```
 
 - Go inside the main repository
