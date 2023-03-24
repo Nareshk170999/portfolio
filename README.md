@@ -19,15 +19,8 @@ This is an easy-to-customize personal portfolio template that was created with H
 - CSS3
 - JavaScript
 
-# 🤟If you like it
+ If Like It
 
-You can clone or fork this repo as a theme for your portfolio site. Because it doesn't use any plugins, you can easily host it on GitHub Pages. Even so, I recommend cloning your fork locally to create and preview your posts, regardless of where you choose to publish.
-
-# ♲Using the Template
-
-- Fork and Clone the repository
-
-```
 - Please visit -> https://nareshkumark.netlify.app/
 
 - Go inside the main repository
@@ -35,3 +28,5 @@ You can clone or fork this repo as a theme for your portfolio site. Because it d
 - Modify `index.html` to change the names and links to point at your pages.
 
 - 🚀HappyCoding
+
+ Source code from -> 
